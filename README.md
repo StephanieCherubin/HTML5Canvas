@@ -2,7 +2,7 @@
 
 ## Overview
 This project uses [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API).
-Canvas API provides a means for drawing graphics via Javascript and the HTML [<canvas>(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)] element. The canvas is a graphics canvas.
+Canvas API provides a means for drawing graphics via Javascript and the HTML [<canvas>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) element. The canvas is a graphics canvas.
 It's a great tool to use to draw on the screen, but you can use a 3D aspect of it to create animations, game graphics, data visualization, photo manipulation, and more.
 It reminds me a little of [turtle graphics with Python(https://docs.python.org/3.3/library/turtle.html?highlight=turtle)].
 
@@ -15,11 +15,13 @@ Your goal is to make a project that *tests* one of the browser APIs.  It needs t
 
 - Its uses and features
 - Your opinions and experiences:
-  - Do you think this is a good feature?
-  - How do you think it will be used?
-  - What kinds of apps do you see making use of this feature?
+  - This is a great feature to use for artists, designers, and beginning coders. I think it will be used to create art, draw shapes, edit photos, and create animation. I also found that you can create [heat maps](https://www.patrick-wied.at/static/heatmapjs/) with them and even data visualization. You can create your own graphs with this API and even animate them.
 - How to run the demo
-
+  ```
+  Clone or download the project on your local machine.
+  Navigate to the cloned directory on your local machine.
+  Open canvas.html in the browser of your choice.
+  ```
 
 - Links to:
   - [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
